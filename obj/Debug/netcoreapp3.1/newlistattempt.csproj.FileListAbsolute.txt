@@ -1,0 +1,13 @@
+C:\Users\tilly\Desktop\newlistattempt\obj\Debug\netcoreapp3.1\newlistattempt.csprojAssemblyReference.cache
+C:\Users\tilly\Desktop\newlistattempt\obj\Debug\netcoreapp3.1\newlistattempt.csproj.CoreCompileInputs.cache
+C:\Users\tilly\Desktop\newlistattempt\obj\Debug\netcoreapp3.1\newlistattempt.AssemblyInfoInputs.cache
+C:\Users\tilly\Desktop\newlistattempt\obj\Debug\netcoreapp3.1\newlistattempt.AssemblyInfo.cs
+C:\Users\tilly\Desktop\newlistattempt\bin\Debug\netcoreapp3.1\newlistattempt.exe
+C:\Users\tilly\Desktop\newlistattempt\bin\Debug\netcoreapp3.1\newlistattempt.deps.json
+C:\Users\tilly\Desktop\newlistattempt\bin\Debug\netcoreapp3.1\newlistattempt.runtimeconfig.json
+C:\Users\tilly\Desktop\newlistattempt\bin\Debug\netcoreapp3.1\newlistattempt.runtimeconfig.dev.json
+C:\Users\tilly\Desktop\newlistattempt\bin\Debug\netcoreapp3.1\newlistattempt.dll
+C:\Users\tilly\Desktop\newlistattempt\bin\Debug\netcoreapp3.1\newlistattempt.pdb
+C:\Users\tilly\Desktop\newlistattempt\obj\Debug\netcoreapp3.1\newlistattempt.dll
+C:\Users\tilly\Desktop\newlistattempt\obj\Debug\netcoreapp3.1\newlistattempt.pdb
+C:\Users\tilly\Desktop\newlistattempt\obj\Debug\netcoreapp3.1\newlistattempt.genruntimeconfig.cache
